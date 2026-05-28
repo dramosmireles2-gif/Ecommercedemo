@@ -5,7 +5,7 @@ export default function EditorialBanner() {
   return (
     <section className="relative h-[70vh] overflow-hidden">
       <Image
-        src="https://images.unsplash.com/photo-1469334031218-e382a71b716b?w=1440&q=80&auto=format&fit=crop"
+        src="/banner.jpg"
         alt=""
         fill
         className="object-cover object-top"

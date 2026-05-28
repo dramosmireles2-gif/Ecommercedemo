@@ -13,7 +13,7 @@ export const PRODUCTS: Product[] = [
     name: 'Oversized Noir Blazer',
     price: '€285',
     category: 'Outerwear',
-    imageUrl: 'https://images.unsplash.com/photo-1591047139829-d91aecb6caea?w=600&q=80&auto=format&fit=crop',
+    imageUrl: '/product-1.jpg',
     imageAlt: 'Oversized black blazer on model',
   },
   {
@@ -21,7 +21,7 @@ export const PRODUCTS: Product[] = [
     name: 'Essential White Tee',
     price: '€65',
     category: 'Tops',
-    imageUrl: 'https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=600&q=80&auto=format&fit=crop',
+    imageUrl: '/product-2.jpg',
     imageAlt: 'Clean white t-shirt laid flat',
   },
   {
@@ -29,7 +29,7 @@ export const PRODUCTS: Product[] = [
     name: 'Cargo Beige Pants',
     price: '€195',
     category: 'Bottoms',
-    imageUrl: 'https://images.unsplash.com/photo-1594938298603-c8148c4dae35?w=600&q=80&auto=format&fit=crop',
+    imageUrl: '/product-3.jpg',
     imageAlt: 'Beige cargo pants on model',
   },
   {
@@ -37,7 +37,7 @@ export const PRODUCTS: Product[] = [
     name: 'Minimal Black Dress',
     price: '€320',
     category: 'Dresses',
-    imageUrl: 'https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=600&q=80&auto=format&fit=crop',
+    imageUrl: '/product-4.jpg',
     imageAlt: 'Minimal black dress on model',
   },
   {
@@ -45,7 +45,7 @@ export const PRODUCTS: Product[] = [
     name: 'Studio Grey Hoodie',
     price: '€145',
     category: 'Tops',
-    imageUrl: 'https://images.unsplash.com/photo-1556821840-3a63f15732ce?w=600&q=80&auto=format&fit=crop',
+    imageUrl: '/product-5.jpg',
     imageAlt: 'Grey hoodie on model',
   },
   {
@@ -53,7 +53,7 @@ export const PRODUCTS: Product[] = [
     name: 'Sand Linen Set',
     price: '€240',
     category: 'Sets',
-    imageUrl: 'https://images.unsplash.com/photo-1509631179647-0177331693ae?w=600&q=80&auto=format&fit=crop',
+    imageUrl: '/product-6.jpg',
     imageAlt: 'Sand colored linen co-ord set',
   },
 ]

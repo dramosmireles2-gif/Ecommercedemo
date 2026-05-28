@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <section className="relative h-screen w-full overflow-hidden">
       <Image
-        src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=85&auto=format&fit=crop"
+        src="/hero.jpg"
         alt="MARÉ SS26 Collection — model in minimalist fashion"
         fill
         priority

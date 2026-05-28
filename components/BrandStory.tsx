@@ -6,7 +6,7 @@ export default function BrandStory() {
       {/* Image — left */}
       <div className="relative h-[500px] md:h-auto min-h-[600px] overflow-hidden">
         <Image
-          src="https://images.unsplash.com/photo-1558769132-cb1aea458c5e?w=900&q=80&auto=format&fit=crop"
+          src="/about.jpg"
           alt="Craftsperson working with fabric — MARÉ atelier"
           fill
           className="object-cover"
